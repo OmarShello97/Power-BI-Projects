@@ -7,7 +7,7 @@ Here is the link to each Project :
 Power BI projects links :
 
 Adventure Works :
-https://app.powerbi.com/view?r=eyJrIjoiMjYyZmRjNmUtOTc5YS00MTBjLTkxNDgtMTg5NWE0ZjkzNzgzIiwidCI6IjI4ZjliZWY5LTA2OTctNGQzOS04YzMzLTk5OWYzOThiNDg2NyIsImMiOjl9
+https://app.powerbi.com/view?r=eyJrIjoiMWFlMTg4NzgtMzJiZS00N2VkLThhOTItZTM0OTYwNmUyNjFiIiwidCI6IjI4ZjliZWY5LTA2OTctNGQzOS04YzMzLTk5OWYzOThiNDg2NyIsImMiOjl9
 
 Lego Set :
 https://app.powerbi.com/view?r=eyJrIjoiYzQ4MTk0MWItYTkwMS00MTdjLWI1NTAtZTIxOWU5ZDFjNTMzIiwidCI6IjI4ZjliZWY5LTA2OTctNGQzOS04YzMzLTk5OWYzOThiNDg2NyIsImMiOjl9
